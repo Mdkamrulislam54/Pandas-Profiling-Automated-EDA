@@ -4,22 +4,6 @@
 
 Pandas Profiling (now known as **YData Profiling**) is a powerful Python library that generates a comprehensive, interactive HTML report from any pandas DataFrame — in a single line of code. This project demonstrates its capabilities on a real-world **Credit Dataset**.
 
----
-
-## 📌 Table of Contents
-
-- [What is Pandas Profiling?](#what-is-pandas-profiling)
-- [Why Use It?](#why-use-it)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Report Highlights](#report-highlights)
-- [Output Snapshots](#output-snapshots)
-- [Key Insights from the Report](#key-insights-from-the-report)
-- [Tech Stack](#tech-stack)
-- [Author](#author)
-
----
 
 ## 🤔 What is Pandas Profiling?
 
